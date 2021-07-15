@@ -1,0 +1,47 @@
+
+body{
+    background-image: linear-gradient(90deg,#ced4da,white,#ced4da);
+}
+
+
+
+
+
+
+
+.price{
+    color:#ff136f;
+}
+.link-button{
+    text-decoration:none;
+    background-image: linear-gradient(180deg,hsl(336, 100%, 67%),#FF136F);
+    border-radius:8px;
+    border: none;
+    color: white;
+    margin: 10px;
+    padding:9px 25px;
+    cursor: pointer;
+  
+}
+.light-bg{
+    background-image: linear-gradient(45deg,#f7e4e5,#fcfcfc);
+    border-radius:10px;
+}
+.watch-bg{
+    background-image: linear-gradient(45deg,#a3cfbb,#75b798);
+    border-radius:10px;
+}
+.shoe-bg{
+    background-image: linear-gradient(45deg,#ffcd39,#ffda6a);
+    border-radius:10px;
+}
+.bag-bg{
+    background-image: linear-gradient(45deg,#feb272,#fecba1);
+    border-radius:10px;
+}
+.border{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
